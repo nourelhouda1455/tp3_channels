@@ -1,17 +1,14 @@
-# tp3_channels
+# TP3 – Flutter Platform Channels
 
-A new Flutter project.
+A Flutter application demonstrating communication between Flutter and native Android (Kotlin) using **MethodChannel** and **EventChannel**.
 
-## Getting Started
+### Features
+- Device information
+- Vibration patterns
+- Ambient light sensor
+- Microphone sound-level monitoring
+- Proximity sensor detection
+- Flashlight control
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+The `screenshots/` folder contains screenshots of the application's user interface.
